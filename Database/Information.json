@@ -1,0 +1,17 @@
+{
+    "BotToken":"",
+    "ClientID":"",
+
+    "BotName":"Master Controller PSN",
+    "BotNameLink":"https://discord.gg/GwJKw7KP9J",
+    "BotIcon":"https://media.discordapp.net/attachments/813528039106543617/881172842891333673/MasterController.png",
+    "BotActivity":"On PlayStation",
+    "EmbedColour":"0xDB033F",
+    "PSEmbedColour":"0x3498DB",
+
+    "InviteLink":"",
+    "SupportDiscord":"https://discord.gg/GwJKw7KP9J",
+    "OwnerID":"",
+    "DeveloperID":"790560304391258172",
+    "Version":"1.0.0"
+}
