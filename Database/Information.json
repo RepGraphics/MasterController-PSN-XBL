@@ -2,12 +2,13 @@
     "BotToken":"",
     "ClientID":"",
 
-    "BotName":"Master Controller PSN",
+    "BotName":"Master Controller PSN/XBL",
     "BotNameLink":"https://discord.gg/GwJKw7KP9J",
     "BotIcon":"https://media.discordapp.net/attachments/813528039106543617/881172842891333673/MasterController.png",
-    "BotActivity":"On PlayStation",
+    "BotActivity":"ARK: Survival Evolved",
     "EmbedColour":"0xDB033F",
     "PSEmbedColour":"0x3498DB",
+    "XBOXEmbedColour":"0x2ECC71"
 
     "InviteLink":"",
     "SupportDiscord":"https://discord.gg/GwJKw7KP9J",
